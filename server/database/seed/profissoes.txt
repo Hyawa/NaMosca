@@ -1,0 +1,15 @@
+facil|Professor||Fica de frente para a turma na sala de aula|Corrige prova, lança nota e sonha com férias|Todos os ofícios, direta ou indiretamente, dependem dele
+facil|Motorista||Tem CNH, volante e paciência no trânsito|Conhece a cidade rua por rua|Hoje, pode ser também de aplicativo
+facil|Padeiro||Levanta antes do sol aparecer na calçada|Trabalha com massa, forno e farinha|É por isso que a padaria abre com pão quente
+facil|Vendedor||Fala bonito, tem paciência e conhece o produto|Trabalha com metas, comissão e indicação|Pode estar no balcão, no telefone e na rua
+facil|Pedreiro||Cimento, água e colher de alvenaria|É ele quem levanta parede com tijolo|No fim do expediente, a poeira gruda na roupa
+media|Dentista||Trabalha dentro da boca do cliente|Usa broca, espelho e anestesia|Recomenda fio dental e menos doce
+media|Contador||Trabalha com números, imposto e planilha|Salva empresas de multa quando fecha tudo certo|Sempre pergunta se você guardou o recibo
+media|Palhaço||Usa nariz vermelho e maquiagem branca|Faz criança rir, inclusive no hospital|Já virou vilão de filme de terror
+media|Guia Turístico||Conhece a história melhor que qualquer site|Cuida do grupo no transporte público|Fala três idiomas quando o cliente pede
+media|Dedetizador||Aparece quando tem barata na casa|Usa borrifador, veneno e máscara de proteção|Trabalha nos cantos que você não gosta de olhar
+dificil|Metalúrgico||Lida com chapa, torno e solda|Sai do turno com peça pronta na mão|O ABC paulista é terra da categoria
+dificil|Alfaiate||Fita métrica enrolada no pescoço|Costura terno e vestido sob encomenda|Arruma barra de calça na véspera da festa
+dificil|Telegrafista||Fala por código, ponto e traço|Cada letra tinha um número próprio|Hoje é profissão quase de museu
+dificil|Sommelier||É a autoridade da carta de vinhos|Cheira, prova e descreve|O nariz e a memória são as ferramentas principais
+dificil|Cartomante||Abre o baralho e fala de amor e trabalho|Também aparece em feira e, às vezes, na TV da tarde|Usa baralho cigano ou cartas de tarô

@@ -1,0 +1,15 @@
+facil|Samba||Ritmo brasileiro por excelência|No Rio de Janeiro, virou grande desfile|Rodinha com pandeiro, cavaquinho e violão
+facil|Circo||Lona, picadeiro e pipoca|Malabarista, trapezista e mágica|Sempre aparece nas férias da cidade
+facil|Cinderela||Fada madrinha, sapato de cristal e meia-noite|Deixou sapato na escadaria e virou princesa|A versão da Disney é a mais famosa
+facil|Papai Noel||Barba branca, roupa vermelha e barriga|Entra pela chaminé com presentes|Dizem que mora no polo Norte
+facil|Fantasma||Aparece e desaparece sem som|Casa antiga é o cenário favorito|Halloween é o dia dele
+media|Elvis||Rei do rock, a maior lenda de Memphis|A Graceland virou ponto de peregrinação de fãs|A imitação é universal em festa à fantasia
+media|Tango||Dança de abraço fechado nascida em Buenos Aires|O bandoneon é o instrumento típico|Argentina e Uruguai disputam a paternidade
+media|Vampiro||Age de noite e dorme de dia|O alho e a cruz espantam o morcego humano|Drácula é a lenda mais famosa
+media|Excalibur||Espada cravada na pedra|Só o legítimo rei consegue puxar|Vem da lenda do rei Artur
+media|Sherlock Holmes||Mora em Baker Street, em Londres|Fuma cachimbo, toca violino e deduz|Doutor Watson é o parceiro inseparável
+dificil|Esopo||Autor grego de fábulas|A corrida entre a tartaruga e o coelho é dele|Seus animais falam e entregam moral
+dificil|Goliath||Gigante do povo filisteu|Foi derrotado por um pastor com funda e pedra|A cena virou uma das pinturas mais copiadas
+dificil|Cleópatra||Rainha do Egito antigo|Envolvida com Júlio César|A morte dela com áspide é lenda
+dificil|Ventríloquo||Fala sem mexer os lábios|Trabalha com um boneco no colo|No palco, parecem duas pessoas
+dificil|Zeus||Rei dos deuses no monte Olimpo|A arma dele é o raio|No Brasil, virou nome popular de cachorro

@@ -1,0 +1,15 @@
+facil|Futebol||O Brasil é o país dele|Onze contra onze e uma bola redonda|Enche estádio, bar e praça
+facil|Natação||Feito na piscina, com boné e óculos|Quatro estilos: livre, peito, costas e borboleta|Um dos esportes mais completos para o corpo
+facil|Basquete||Bola quicando, mão alta e cesta|A NBA é a liga mais famosa dessa modalidade|No Brasil, teve era de ouro com Hortência e Paula
+facil|Xadrez||Tabuleiro 8 por 8, brancas e pretas|A dama é a peça mais forte|O xeque-mate encerra a partida
+facil|Vôlei|volei,voleibol|Rede no meio e bola voando|Cortada, bloqueio e saque por baixo|As mulheres brasileiras fizeram história nessa modalidade
+media|Skate||Prancha pequena com rodas no asfalto|Figuras clássicas: ollie, flip e grind|Deu ouro olímpico para o Brasil em Tóquio
+media|Judô||Inventado no Japão, foco em derrubar o oponente|Do branco ao preto, faixa a faixa|Cada treino começa com reverência no tatame
+media|Boxe||Luvas, ringue e rounds|Esquiva, jab e cruzado são essenciais|Mohammed Ali é a maior lenda da categoria
+media|Tênis||Raquete, rede e quadra com linhas brancas|Wimbledon é o torneio mais antigo dessa modalidade|No Brasil, Guga fez história na quadra
+media|Surfe||Prancha e onda|Nasceu nas ilhas do Pacífico|Italo Ferreira foi campeão mundial e olímpico pelo Brasil
+dificil|Badminton||Raquete das mais leves do esporte|O volante de penas passa de 300 km/h no smash|A Ásia domina o ranking mundial dessa modalidade
+dificil|Rugby||Nasceu numa escola inglesa de mesmo nome|Bola oval e pancadaria dentro das regras|Super Bowl é outro esporte, mas muita gente confunde
+dificil|Sumô||Lutadores pesados com faixa na cintura|Antes da luta, joga-se sal no ringue de terra|Vence quem empurra o rival para fora do círculo
+dificil|Patinação Artística||No gelo, com música no fundo|Salto, giro e coreografia|No Brasil, quase sempre acontece em pista sintética
+dificil|Rafting||Bote inflável descendo corredeira|Todos remam e o guia grita a direção|O nível varia de suave a radical

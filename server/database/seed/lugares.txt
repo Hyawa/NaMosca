@@ -1,0 +1,15 @@
+facil|Praia||Banhada pelo mar e pelas férias|Areia, guarda-sol e biquíni no cenário|Coco gelado e maré fecham o clima
+facil|Escola||Lugar de lousa, recreio e fila na sala|Tem provas, boletim e um sino marcando hora|Toda infância passa por aqui
+facil|Hospital||Tem ambulância, jaleco e emergência 24 horas|Cheira a álcool e tem sempre uma fila|É onde muita gente nasceu e se salvou
+facil|Padaria||Abre cedo e o primeiro cheiro é o do pão saindo|Café com pão na chapa é o combo clássico|Tem fila de manhã e o cliente quer pão quente
+facil|Igreja||Cenário de missa, batismo e casamento|Sinos, vitrais e cadeiras em fileiras|Todo domingo, uma parte da cidade vai até lá
+media|Cinema||Salas escuras e telas gigantes|O balcão antes da sessão vende o petisco|Poltrona reclinável e fileira K
+media|Aeroporto||Esteira de bagagens e muito código IATA|Embarque, desembarque e névoa de adeus no portão|Todo mundo ali está entre um lugar e outro
+media|Museu||Guarda história sob placas e luz discreta|Sala silenciosa e visitantes de passos curtos|De arte a dinossauro: variado no interior
+media|Zoológico||Girafa, leão, mico e sorriso infantil|Cada recinto tem habitat e placa informativa|Fim de semana lota com crianças atrás do leão
+media|Biblioteca||O recanto mais silencioso da cidade|Livros em prateleira e carimbo dentro da capa|Todo estudante tem memória de prazo perdido aqui
+dificil|Planetário||Domo que projeta o céu inteiro por dentro|Uma sessão cabe Via Láctea, planetas e constelações|Quando apagam a luz, parece estar em outro mundo
+dificil|Farol||Torre costeira com feixe girando na madrugada|Antes do GPS, salvava embarcações sozinho|Escada em espiral, vista do mar e muito vento
+dificil|Cartório||Guarda as certidões que a gente sempre esquece|Fila, senha, selo e reconhecimento de assinatura|Nascimento, casamento e óbito ficam registrados
+dificil|Sinagoga||Casa de oração com arca da Torá no centro|O culto é conduzido pelo rabino|A estrela de seis pontas costuma marcar o lugar
+dificil|Chafariz||Fonte ornamentada, quase sempre com estátua no centro|A água sobe e volta em circuito fechado|Marca praças coloniais de cidades históricas

@@ -1,0 +1,15 @@
+facil|Vaca|mu,boi|Pilar do agronegócio brasileiro|Fornece leite, carne e couro|O barulho típico é um muuu no pasto
+facil|Cachorro|cao,cão|Dizem que é o melhor amigo do homem|Late quando chega visita e abana a cauda|Vem em muitas raças: pug, pastor e pinscher
+facil|Galinha|galo,frango,pinto|Anda ciscando pelo quintal da vó|Põe ovo quase todo dia|Cacareja de manhã cedo na roça
+facil|Peixe|pescado|Vive na água e respira por guelras|Tem escamas, barbatanas e nunca pisca|Existe no rio, no mar e no prato de sexta
+facil|Coelho||Fofo, de orelhas compridas|Salta mais rápido do que anda|É o símbolo da Páscoa para as crianças
+media|Abelha||Poliniza boa parte das frutas do planeta|Vive em colmeia e produz um doce espesso|Tem ferrão e morre depois de usar
+media|Papagaio|loro|Repete o que o dono fala|É verde, vermelho ou azul, de bico curvado|No Nordeste, virou apelido carinhoso entre amigos
+media|Camelo|dromedário|Transporte oficial das caravanas do deserto|Pode passar semanas sem beber água|Tem um ou dois montes nas costas
+media|Golfinho|boto|Nada em grupos e adora saltar fora da água|No rio Amazonas existe a versão rosada|É considerado um dos animais mais inteligentes
+media|Tubarão||É o grande predador dos oceanos|O corpo é todo cartilagem, sem osso duro|Inspira filmes de suspense com trilha icônica
+dificil|Tatu||Cava buracos enormes com as garras dianteiras|Quando se sente ameaçado, se enrola como bola|Tem carapaça de placas e focinho comprido
+dificil|Preguiça||Vive pendurado nas copas das árvores|Dá uma passada a cada minuto, às vezes menos|Dorme mais de quinze horas por dia
+dificil|Jiboia|cobra|Não tem veneno, aperta mesmo|É grande e pesada, de desenho em losangos|Aparece em mitos indígenas como gigante que engole o mundo
+dificil|Escorpião||Tem oito patas e uma cauda com ferrão|Brilha azul embaixo de luz ultravioleta|Pode ser bem mais perigoso que a aranha da casa
+dificil|Morcego||É o único mamífero que voa de verdade|Dorme pendurado de cabeça para baixo|Há espécies que se alimentam de fruta, peixe e sangue

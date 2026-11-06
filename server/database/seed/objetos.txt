@@ -1,0 +1,15 @@
+facil|Guarda-Chuva|guarda chuva|Fechado cabe na mochila, aberto vira telhado portátil|Tem cabo, varetas e aquele estalo na abertura|É o objeto que mais se perde em táxi
+facil|Tesoura||Duas lâminas unidas por um parafuso|Corta papel, tecido e unha|Pedra, papel e ela decidem o jogo do recreio
+facil|Espelho||Copia o que está na frente, invertendo os lados|É vidro com camada metálica por trás|Há quem diga que quebrar um traz sete anos de azar
+facil|Almofada||Enche o sofá de cor e fofura|Quadrada, redonda e cheia de estampas|Na casa da vó, nunca acaba
+facil|Escova||Mora ao lado da pia do banheiro|Há versão para o cabelo e outra para os dentes|Com cerdas, faz a rotina da manhã e da noite
+media|Liquidificador||Copo, tampa e lâminas na parte de baixo|A vitamina da manhã depende dele|Tem velocidades, tampa e aquele barulho na cozinha
+media|Ventilador||Verão sem ele é insuportável|Tem pás, giro e até três níveis de fúria|Aparece sempre que o ar-condicionado estraga
+media|Extintor||Vermelho, pendurado e com manômetro no topo|Todo prédio tem, quase ninguém nunca usou|Numa emergência, é o herói silencioso
+media|Calculadora||Resolve contas em milissegundos|Tecla, display e às vezes até painel solar|Na escola, quase sempre é proibida na prova
+media|Isqueiro||Cabe no bolso e solta chama pequena|Tem gás, pedra de ignição e trava|Resolve vela, fogueira e brasa
+dificil|Maçarico||Ferramenta com chama focada e botão de gatilho|Na cozinha, caramela o topo do pudim|Também é nome de ave de praia de perna longa
+dificil|Tonel||Barril grande, de madeira ou de metal|Guarda vinho, cerveja e aguardente por meses|Num armazém antigo, servia de mesa
+dificil|Grampeador||Fecha documentos com arcos de metal|Tem base firme e mola no braço|Cores brilhantes o tornaram acessório de mesa
+dificil|Caixa d'água|caixa d agua|Reservatório instalado no ponto mais alto da casa|A água sobe por bomba e desce por gravidade|Quando fica vazia, nenhuma torneia funciona
+dificil|Compasso||Ferramenta de duas pontas, uma com grafite e outra fixa|Faz parte do kit de desenho técnico e matemática|Com ele, o círculo sai perfeito de primeira
