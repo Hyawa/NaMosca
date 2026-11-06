@@ -1,0 +1,15 @@
+facil|Nuvem||Conjunto de gotas ou cristais no ar|Branca de dia, cinza na hora da chuva|Aponta o tempo que vem por aí
+facil|Chuva||Cai do céu em gotas|Toda planta agradece quando ela chega|Molha a rua e espanta quem não levou abrigo
+facil|Arco-Íris|arco iris|Só aparece quando se juntam sol e chuva|Sete cores no mesmo espetáculo|Virou símbolo de orgulho pelo mundo
+facil|Sol||É a estrela mais próxima da Terra|Aparece pela janela bem cedinho|Para ele, brasileiro trata como sinônimo de férias
+facil|Vento||Não se vê, mas mexe em tudo|É o combustível da pipa no horizonte|Serve para gerar eletricidade em turbina
+media|Névoa|neblina,nevoeiro|Cobertura branca e mole que impede enxergar longe|Aparece ao amanhecer e desaparece com sol|Na serra, faz o motorista ir devagar
+media|Furacão||Vento gigante que gira e destrói|Recebe nome próprio, tipo Katrina e Sandy|No Brasil é bem mais raro do que no Caribe
+media|Trovão||O som chega segundos depois do clarão|É o barulho grave do céu|Assusta cachorro e vale conferir se fechou a janela
+media|Vulcão||Montanha que solta pedra derretida|A lava esfria e vira solo novo|No Brasil é quase inexistente
+media|Cachoeira||Queda d'água numa parede de pedra|Embaixo dela, quase sempre há piscina natural|As Chapadas brasileiras são cheias delas
+dificil|Eclipse||A Lua cobre o Sol e o dia vira noite|Para ver de frente, é preciso óculos próprios|Pode ser solar ou lunar
+dificil|Meteoro||Risca de fogo no céu noturno|É pedra queimando ao entrar na atmosfera|Recebe pedidos e desejos
+dificil|Aurora Boreal||Melhor vista perto do polo Norte|Verde e rosa pintam o céu|No Hemisfério Sul, ganha o nome de austral
+dificil|Tornado||Funil de vento girando no céu|Nas planícies americanas, é frequente|É medido na escala Fujita
+dificil|Monção||É vento sazonal de grande escala|Define a safra de arroz no Sudeste Asiático|Uma temporada tem chuva sem fim e outra, seca severa

@@ -1,0 +1,32 @@
+# Blueprint do Render — backend Na Mosca! (TypeScript + PostgreSQL)
+# Cria: 1 banco Postgres + 1 serviço web (Node nativo, sem Docker).
+# Uso: Render Dashboard -> New -> Blueprint -> selecione este arquivo.
+# Depois, no serviço, defina as variáveis marcadas abaixo. A DATABASE_URL
+# é injetada automaticamente pelo vínculo `${{database.connectionString}}`.
+
+services:
+  - type: web
+    name: namosca-api
+    runtime: node
+    rootDir: server-ts
+    buildCommand: pnpm install --frozen-lockfile && pnpm build
+    preDeployCommand: pnpm db:migrate && pnpm db:seed
+    startCommand: pnpm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: DATABASE_URL
+        sync: false
+      - key: CORS_ALLOWED_ORIGINS
+        sync: false
+      - key: APP_ENV
+        value: production
+      - key: APP_DEBUG
+        value: "false"
+
+databases:
+  - name: namosca-db
+    databaseName: namosca
+    user: namosca
+    plan: free

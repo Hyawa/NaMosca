@@ -1,0 +1,15 @@
+facil|Pizza||Redonda, quente e dividida em fatias|Chega em casa numa caixa quadrada|Massa, molho, queijo e coberturas ao gosto
+facil|Pipoca||Milho que estoura no calor|No cinema ela é gigante, salgada e exagerada|Acompanha o filme da noite
+facil|Mel|mel de flor|Doce espesso e dourado, colhido de colmeia|Não estraga: há potes milenares ainda bons|Produzido por milhares de insetos trabalhando
+facil|Arroz|arroz branco|Acompanha o feijão no prato brasileiro|Vem de plantação alagada|Pode ser branco, integral, agulhinha ou cateto
+facil|Banana|banana prata|Cresce em cachos e tem casca amarela|É doce e cheia de potássio|Pode ser frita, amassada ou in natura
+media|Coxinha||Salgado brasileiro em formato de gota|O recheio mais comum é frango desfiado|Frito, crocante por fora e macio por dentro
+media|Lasanha||Prato italiano montado em camadas|Massa, molho, queijo e carne no forno|Gratina e fica com aquela casquinha em cima
+media|Brigadeiro||Docinho de festa brasileiro|Feito com leite condensado e cacau|Enrolado em bolinhas e granulado por cima
+media|Pão de Queijo|pao de queijo|Salgadinho mineiro quentinho do café|O segredo é o polvilho, não farinha de trigo|Sai do forno com casquinha e miolo gelatinoso
+media|Pastel|pastel de feira|Salgado frito na hora, típico de feira|Carne, queijo e caldo de cana fecham o pedido|A origem é discutida entre Brasil, Japão e Portugal
+dificil|Jabuticaba||Fruta que nasce grudada no próprio tronco|Casca roxa, polpa branca e doce|Virou apelido nacional para invenção muito brasileira
+dificil|Açaí|acai|É nativa da Amazônia e conquistou as praias|Vem da palmeira: roxa, escura e bem densa|Servida na tigela com granola e banana
+dificil|Fondue||Invenção suíça para aproveitar restos de queijo|Chega numa panela aquecida no centro da mesa|Os garfinhos são longos e a paciência precisa ser maior
+dificil|Risoto||Arroz italiano cozido aos poucos|Cada concha de caldo entra, mexe e seca|Grão firme no centro e o molho é cremoso
+dificil|Tapioca|goma,beiju|Crepe nordestino feito de goma hidratada|Não leva farinha de trigo nenhum|Queijo com coco é o recheio clássico
